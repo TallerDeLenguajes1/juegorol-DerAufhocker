@@ -1,0 +1,10 @@
+C:\taller1\repositorio\juegorol-DerAufhocker\Juego09\Juego09\bin\Debug\Juego09.exe.config
+C:\taller1\repositorio\juegorol-DerAufhocker\Juego09\Juego09\bin\Debug\Juego09.exe
+C:\taller1\repositorio\juegorol-DerAufhocker\Juego09\Juego09\bin\Debug\Juego09.pdb
+C:\taller1\repositorio\juegorol-DerAufhocker\Juego09\Juego09\obj\Debug\Juego09.csprojAssemblyReference.cache
+C:\taller1\repositorio\juegorol-DerAufhocker\Juego09\Juego09\obj\Debug\Juego09.Form1.resources
+C:\taller1\repositorio\juegorol-DerAufhocker\Juego09\Juego09\obj\Debug\Juego09.Properties.Resources.resources
+C:\taller1\repositorio\juegorol-DerAufhocker\Juego09\Juego09\obj\Debug\Juego09.csproj.GenerateResource.cache
+C:\taller1\repositorio\juegorol-DerAufhocker\Juego09\Juego09\obj\Debug\Juego09.csproj.CoreCompileInputs.cache
+C:\taller1\repositorio\juegorol-DerAufhocker\Juego09\Juego09\obj\Debug\Juego09.exe
+C:\taller1\repositorio\juegorol-DerAufhocker\Juego09\Juego09\obj\Debug\Juego09.pdb
