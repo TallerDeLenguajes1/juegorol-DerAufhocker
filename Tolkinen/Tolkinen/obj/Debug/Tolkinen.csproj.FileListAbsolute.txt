@@ -1,0 +1,11 @@
+C:\taller1\repositorio\juegorol-DerAufhocker\Tolkinen\Tolkinen\bin\Debug\Tolkinen.exe.config
+C:\taller1\repositorio\juegorol-DerAufhocker\Tolkinen\Tolkinen\bin\Debug\Tolkinen.exe
+C:\taller1\repositorio\juegorol-DerAufhocker\Tolkinen\Tolkinen\bin\Debug\Tolkinen.pdb
+C:\taller1\repositorio\juegorol-DerAufhocker\Tolkinen\Tolkinen\obj\Debug\Tolkinen.csprojAssemblyReference.cache
+C:\taller1\repositorio\juegorol-DerAufhocker\Tolkinen\Tolkinen\obj\Debug\Tolkinen.Form1.resources
+C:\taller1\repositorio\juegorol-DerAufhocker\Tolkinen\Tolkinen\obj\Debug\Tolkinen.PlayerForm.resources
+C:\taller1\repositorio\juegorol-DerAufhocker\Tolkinen\Tolkinen\obj\Debug\Tolkinen.Properties.Resources.resources
+C:\taller1\repositorio\juegorol-DerAufhocker\Tolkinen\Tolkinen\obj\Debug\Tolkinen.csproj.GenerateResource.cache
+C:\taller1\repositorio\juegorol-DerAufhocker\Tolkinen\Tolkinen\obj\Debug\Tolkinen.csproj.CoreCompileInputs.cache
+C:\taller1\repositorio\juegorol-DerAufhocker\Tolkinen\Tolkinen\obj\Debug\Tolkinen.exe
+C:\taller1\repositorio\juegorol-DerAufhocker\Tolkinen\Tolkinen\obj\Debug\Tolkinen.pdb
