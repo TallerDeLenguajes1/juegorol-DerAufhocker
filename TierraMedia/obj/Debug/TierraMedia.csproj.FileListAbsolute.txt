@@ -7,3 +7,10 @@ C:\Users\Usuario\source\repos\TierraMedia\TierraMedia\obj\Debug\TierraMedia.cspr
 C:\Users\Usuario\source\repos\TierraMedia\TierraMedia\obj\Debug\TierraMedia.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\source\repos\TierraMedia\TierraMedia\obj\Debug\TierraMedia.exe
 C:\Users\Usuario\source\repos\TierraMedia\TierraMedia\obj\Debug\TierraMedia.pdb
+C:\taller\juegorol-DerAufhocker\TierraMedia\obj\Debug\TierraMedia.csproj.AssemblyReference.cache
+C:\taller\juegorol-DerAufhocker\TierraMedia\obj\Debug\TierraMedia.Form1.resources
+C:\taller\juegorol-DerAufhocker\TierraMedia\obj\Debug\TierraMedia.Properties.Resources.resources
+C:\taller\juegorol-DerAufhocker\TierraMedia\obj\Debug\TierraMedia.csproj.GenerateResource.cache
+C:\taller\juegorol-DerAufhocker\TierraMedia\obj\Debug\TierraMedia.csproj.CoreCompileInputs.cache
+C:\taller\juegorol-DerAufhocker\TierraMedia\obj\Debug\TierraMedia.exe
+C:\taller\juegorol-DerAufhocker\TierraMedia\obj\Debug\TierraMedia.pdb

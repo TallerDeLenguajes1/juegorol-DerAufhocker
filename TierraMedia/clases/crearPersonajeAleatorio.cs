@@ -8,9 +8,9 @@ namespace TierraMedia.clases
 {
     //hago esta clase aparte para crear personajes aleatorios y probar el juego antes de que el usuario ingrese los datos
     //para ello creo un metodo que cree valores aleatorios. esto tiene que ser aparte del codigo anterior para no mezclar codigo del proyecto con el codigo de pruebaa
-    public class crearPersonajeAleatorio
+    public class crearPersonajeAleatorio//creador de personaje
     {
-        public personajes crearPersonaje()
+        public personajes crearPersonaje()//generico
         {
             Random random = new Random();
             personajes nuevoPersonaje = new personajes(tipoRaza.Dwarves,"Exe","Gurin",DateTime.Now,73,150);
