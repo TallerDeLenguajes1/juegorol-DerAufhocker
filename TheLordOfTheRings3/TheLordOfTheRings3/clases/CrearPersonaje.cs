@@ -11,7 +11,7 @@ namespace TheLordOfTheRings3.clases
     {
         List<string> listaEspecies = new List<string>() { "Hombre", "enano", "Elfo", "Orco", "Uruk-Hai" };
 
-        List<string> listaApodos = new List<string>() { "Cabeza de Hierrro", "lomo Plateado", "Brazo de Hierrro", "Señora de las moscas", "señora de las bubis" };
+        List<string> listaApodos = new List<string>() { "Cabeza de Hierrro", "lomo Plateado", "Brazo de Hierrro", "Señora de las moscas"};
 
         public List<string> listaNombres = new List<string>()
         {
@@ -34,7 +34,7 @@ namespace TheLordOfTheRings3.clases
         }
         public modelo CrearPersonajeAletorio(int num)
         {
-           Random random = new Random();
+           Random random = new Random(num);
             
             modelo personajeAleatorio = new modelo(listaEspecies.ElementAt(random.Next(listaEspecies.Count)),
                                                     listaNombres.ElementAt(random.Next(listaNombres.Count)),

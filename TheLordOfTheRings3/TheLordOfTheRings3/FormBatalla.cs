@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using TheLordOfTheRings3.clases;
+using System.IO;
 
 namespace TheLordOfTheRings3
 {
@@ -71,27 +72,35 @@ namespace TheLordOfTheRings3
 
             if(power1 >= power2)
             {
-                lblGanador.Text = "El ganador de esta batalla fue: " + Lista[num1].Nombre;
-                Eliminados.Add(Lista[num2]);
-                listaPerdedores.Items.Add(Eliminados);
-                Lista.RemoveAt(num2);
-                foreach (modelo eliminado in Eliminados)
-                {
-                    listaPerdedores.Items.Add(modelo.mostrarPersonaje(eliminado));
-                }
+                QuitarEliminado(Eliminados, Lista, num1, num2);
             }
             else
             {
-                lblGanador.Text = "El ganador de esta batalla fue: " + Lista[num2].Nombre;
-                Eliminados.Add(Lista[num1]);
-                listaPerdedores.Items.Add(Eliminados);
-                Lista.RemoveAt(num1);
-                foreach (modelo eliminado in Eliminados)
-                {
-                    listaPerdedores.Items.Add(modelo.mostrarPersonaje(eliminado));
-                }
+                QuitarEliminado(Eliminados, Lista, num2, num1);
             }
 
         }
+
+        private void QuitarEliminado(List<modelo> Eliminados, List<modelo> Lista, int indiceGanador, int indicePerderdor)
+        {
+            lblGanador.Text = "El ganador de esta batalla fue: " + Lista[indiceGanador].Nombre;
+            Eliminados.Add(Lista[indicePerderdor]);
+            listaPerdedores.Items.Add(Eliminados);
+            Lista.RemoveAt(indicePerderdor);
+            listaParticipantes.Items.RemoveAt(indicePerderdor);
+            foreach (modelo eliminado in Eliminados)
+            {
+                listaPerdedores.Items.Add(modelo.mostrarPersonaje(eliminado));
+            }
+        }
+
+        /* public void GuardarGanador(string NombreArchivo, string formato, modelo ganador)
+         {
+             FileStream MiArchivo = new FileStream(NombreArchivo + formato, FileMode.Create);
+             using(StringWriter escribir = new StringWriter(MiArchivo))
+             {
+                 escribir.WriteLine("{},{}", ganador.Nombre, ganador.Apodo);
+             }
+         }*/
     }
 }
