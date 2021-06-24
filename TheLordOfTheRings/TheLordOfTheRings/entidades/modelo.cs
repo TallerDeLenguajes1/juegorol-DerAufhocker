@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace TheLordOfTheRings.entidades
 {
     public enum TipoEspecie { Humano, Elfo, Enano}
-    public abstract class modelo
+    public class modelo
     {
         public TipoEspecie raza;
         public string nombre;
@@ -22,21 +22,30 @@ namespace TheLordOfTheRings.entidades
         public int nivel;
         public int armadura;
 
-        //constructor base
-        public modelo()
+        public modelo(TipoEspecie raza, string nombre, string apodo, DateTime fechNac)
         {
-            this.raza = TipoEspecie.Humano;
-            this.nombre = "";
-            this.apodo = "";
-            this.fechNac = DateTime.Now;
-            this.edad = 0;
-            this.puntosVida = 0;
-            this.velocidad = 0;
-            this.destreza = 0;
-            this.fuerza = 0;
-            this.nivel = 0;
-            this.armadura = 0;
+            this.raza = raza;
+            this.nombre = nombre;
+            this.apodo = apodo;
+            this.fechNac = fechNac;
         }
+
+        //constructor base
+        /*
+         public modelo()
+         {
+             this.raza = TipoEspecie.Humano;
+             this.nombre = "";
+             this.apodo = "";
+             this.fechNac = DateTime.Now;
+             this.edad = 0;
+             this.puntosVida = 0;
+             this.velocidad = 0;
+             this.destreza = 0;
+             this.fuerza = 0;
+             this.nivel = 0;
+             this.armadura = 0;
+         }*/
 
         public TipoEspecie Raza { get => raza;  set => raza = value; }
         public string Nombre { get => nombre;  set => nombre = value; }

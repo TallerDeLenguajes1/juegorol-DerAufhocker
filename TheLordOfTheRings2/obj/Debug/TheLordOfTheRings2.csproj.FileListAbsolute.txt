@@ -1,0 +1,11 @@
+C:\taller\juegorol-DerAufhocker\TheLordOfTheRings2\bin\Debug\TheLordOfTheRings2.exe.config
+C:\taller\juegorol-DerAufhocker\TheLordOfTheRings2\bin\Debug\TheLordOfTheRings2.exe
+C:\taller\juegorol-DerAufhocker\TheLordOfTheRings2\bin\Debug\TheLordOfTheRings2.pdb
+C:\taller\juegorol-DerAufhocker\TheLordOfTheRings2\obj\Debug\TheLordOfTheRings2.csproj.AssemblyReference.cache
+C:\taller\juegorol-DerAufhocker\TheLordOfTheRings2\obj\Debug\TheLordOfTheRings2.crearCampeon.resources
+C:\taller\juegorol-DerAufhocker\TheLordOfTheRings2\obj\Debug\TheLordOfTheRings2.Form1.resources
+C:\taller\juegorol-DerAufhocker\TheLordOfTheRings2\obj\Debug\TheLordOfTheRings2.Properties.Resources.resources
+C:\taller\juegorol-DerAufhocker\TheLordOfTheRings2\obj\Debug\TheLordOfTheRings2.csproj.GenerateResource.cache
+C:\taller\juegorol-DerAufhocker\TheLordOfTheRings2\obj\Debug\TheLordOfTheRings2.csproj.CoreCompileInputs.cache
+C:\taller\juegorol-DerAufhocker\TheLordOfTheRings2\obj\Debug\TheLordOfTheRings2.exe
+C:\taller\juegorol-DerAufhocker\TheLordOfTheRings2\obj\Debug\TheLordOfTheRings2.pdb
